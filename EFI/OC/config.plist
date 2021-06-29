@@ -1991,7 +1991,7 @@
 			<key>MaxBIOSVersion</key>
 			<false/>
 			<key>MLB</key>
-			<string>F5K947310GUFHDDAD</string>
+			<string>Add Yours</string>
 			<key>ProcessorType</key>
 			<integer>1537</integer>
 			<key>ROM</key>
@@ -2003,9 +2003,9 @@
 			<key>SystemProductName</key>
 			<string>MacPro7,1</string>
 			<key>SystemSerialNumber</key>
-			<string>F5KZQ6YRP7QM</string>
+			<string>Add Yours</string>
 			<key>SystemUUID</key>
-			<string>81744BF1-B778-44E0-A8E1-BB87812396E7</string>
+			<string>Add Yours</string>
 		</dict>
 		<key>UpdateDataHub</key>
 		<true/>
