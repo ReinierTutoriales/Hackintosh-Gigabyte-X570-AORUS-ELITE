@@ -5,3 +5,7 @@ MB: Gigabyte x570 Aorus Elite
 CPU: AMD Ryzen 3600 
 VGA: Gigabyte RX 5500 XT OC 4GB
 RAM: 32GB DDR4
+
+
+MacOS Big Sur 11.4
+Opencore 0.7.1
