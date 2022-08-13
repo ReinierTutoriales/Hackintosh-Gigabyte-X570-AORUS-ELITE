@@ -21,13 +21,9 @@ En los nuevos parches de CPU de AMD, ahora tenemos que especificar los recuentos
 ## OpenCore
 **Versión**: 0.8.4
 ## ACPI
-- SSDT-HPET.aml: soluciona conflictos de IRQ
-- SSDT-NVME.aml: hace que las unidades NVMe se muestren como almacenamiento interno
-- SSDT-PLUG.aml - Corrige la administración de energía de la CPU
-- SSDT-SBRG.aml - Corrige conflictos EC, RTC, IRQ
-- SSDT-SBUS-MCHC.aml - Corrige la compatibilidad con SMBus
-- SSDT-EC-USBX-DESKTOP.aml: corrige el controlador integrado y las propiedades de alimentación USB
-- SSDT-XHC.aml: corrige la asignación de puertos USB
+- SSDT-PLUG.aml
+- SSDT-USBX.aml
+- SSDT-XHC.aml 
 ## Drivers
 - HfsPlus.efi
 - OpenCanopy.efi
