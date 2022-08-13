@@ -19,7 +19,7 @@ En el archivo config.plist , genere códigos de serie nuevos ya que este carece 
 En los nuevos parches de CPU de AMD, ahora tenemos que especificar los recuentos de núcleos de CPU en los algrey - Force cpuid_cores_per_packagenodos. Actualmente, mi configuración de EFI establece para el modelo de CPU de 6 núcleos porque estoy usando Ryzen 5 3600.
 [Consulte la descripción del autor para obtener más información.](https://github.com/AMD-OSX/AMD_Vanilla#instructions "Consulte la descripción del autor para obtener más información.")
 ## OpenCore
-**Versión**: 0.7.6
+**Versión**: 0.8.4
 ## ACPI
 - SSDT-HPET.aml: soluciona conflictos de IRQ
 - SSDT-NVME.aml: hace que las unidades NVMe se muestren como almacenamiento interno
@@ -29,15 +29,16 @@ En los nuevos parches de CPU de AMD, ahora tenemos que especificar los recuentos
 - SSDT-EC-USBX-DESKTOP.aml: corrige el controlador integrado y las propiedades de alimentación USB
 - SSDT-XHC.aml: corrige la asignación de puertos USB
 ## Drivers
+- HfsPlus.efi
 - OpenCanopy.efi
-- OpenHfsPlus.efi
 - OpenRuntime.efi
+- ResetNvramEntry.efi
+- ToggleSipEntry.efi
 ## Kexts
 - AGPMInjector.kext
 - AMDRyzenCPUPowerManagement.kext
 - AppleALC.kext
 - AppleMCEReporterDisabler.kext
-- CtlnaAHCIPort.kext
 - Lilu.kext
 - LucyRTL8125Ethernet.kext
 - NVMeFix.kext
