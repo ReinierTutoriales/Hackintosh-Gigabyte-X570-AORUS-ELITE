@@ -4,9 +4,9 @@
 Este repositorio contiene el directorio EFI para el combo Ryzen 5 3600 y MotherBoard Gigabyte X570 Aorus Elite.
 ## Especificación de mi PC
 - **MotherBoard**: [Gigabyte X570 Aorus Elite](https://amzn.to/30KCO2k "Gigabyte X570 Aorus Elite")
-- **Procesador**: [Ryzen 5 3600](https://amzn.to/3JdS2yj "Ryzen 5 3600")
-- **RAM**: [32GB Corsair Vengeance RGB Pro (2 x 16 GB)DDR4 3600(PC4-28800)memoria optimizada AMD](https://amzn.to/3mgZY7O "32GB Corsair Vengeance RGB Pro (2 x 16 GB)DDR4 3600(PC4-28800)memoria optimizada AMD")
-- **BT / WIFI**: [Fenvi T919 (BCM94360CD)](https://amzn.to/3p89Mmw "Fenvi T919 (BCM94360CD)")
+- **Procesador**: [Ryzen 5 3600](https://amzn.to/3Ag2N0q "Ryzen 5 3600")
+- **RAM**: [32GB Corsair Vengeance RGB Pro (2 x 16 GB)DDR4 3600(PC4-28800)memoria optimizada AMD](https://amzn.to/3JPyWiu "32GB Corsair Vengeance RGB Pro (2 x 16 GB)DDR4 3600(PC4-28800)memoria optimizada AMD")
+- **BT / WIFI**: [Fenvi T919 (BCM94360CD)](https://amzn.to/3w3fkBX "Fenvi T919 (BCM94360CD)")
 ## Estructura EFI
 ### Recomendación
 - Te recomiendo que uses esto solo como un recurso de referencia.
