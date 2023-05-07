@@ -35,6 +35,7 @@ En el archivo config.plist , genere códigos de serie nuevos ya que este carece 
 - En los nuevos parches de CPU de AMD, ahora tenemos que especificar los recuentos de núcleos de CPU en los algrey - Force cpuid_cores_per_packagenodos. Actualmente, mi configuración de EFI establece para el modelo de CPU de 6 núcleos porque estoy usando Ryzen 5 3600.
 
 - El parche Core Count debe modificarse para iniciar su sistema. Encuentre los cuatro parches `algrey - Force cpuid_cores_per_package`  y modifique el valor  `Replace`.
+
 |   macOS Version      | Replace Value | New Value |
 |----------------------|---------------|-----------|
 | 10.13.x, 10.14.x     | B8000000 0000 | B8 < Core Count > 0000 0000 |
