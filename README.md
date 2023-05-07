@@ -19,6 +19,19 @@ Este repositorio contiene el directorio EFI para el combo Ryzen 5 3600 y MotherB
 | Red Ethernet | Intel® GbE LAN                                   |                                                |
 | BT/WIFI      | Fenvi T919 (BCM94360CD)                          |                                                |
 
+##onfiguración del BIOS
+Enter BIOS -> Press Delete -> Enter Setup​
+Exit -> Load Optimised Defaults​
+Ai Tweaker -> Ai Overclock Tuner -> D.O.C.P.​
+Advanced -> APM Configuration -> Power On By PCIe -> Disabled​
+Advanced -> PCI Subsystem Settings -> Above 4G Decoding -> Disabled​
+Advanced -> PCI Subsystem Settings -> Re-Size BAR Support -> Disabled​
+Advanced -> USB Configuration -> Legacy USB Support -> Auto or Disabled​
+Boot -> Boot Configuration -> Fast boot -> Disabled​
+Boot -> CSM -> Launch CSM -> Disabled​
+Boot -> Secure boot -> OS Type -> Windows UEFI mode​
+Boot -> Secure boot -> Key Management -> Clear Secure Boot Keys
+
 
 - **MotherBoard**: Gigabyte X570 Aorus Elite [👉Compr Aquí💵](https://amzn.to/30KCO2k "Gigabyte X570 Aorus Elite")
 - **Procesador**: Ryzen 5 3600 [👉Compr Aquí💵](https://amzn.to/3Ag2N0q "Ryzen 5 3600")
