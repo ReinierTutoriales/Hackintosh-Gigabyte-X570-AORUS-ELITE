@@ -36,11 +36,10 @@ En el archivo config.plist , genere códigos de serie nuevos ya que este carece 
 En los nuevos parches de CPU de AMD, ahora tenemos que especificar los recuentos de núcleos de CPU en los algrey - Force cpuid_cores_per_packagenodos. Actualmente, mi configuración de EFI establece para el modelo de CPU de 6 núcleos porque estoy usando Ryzen 5 3600.
 [Consulte la descripción del autor para obtener más información.](https://github.com/AMD-OSX/AMD_Vanilla#instructions "Consulte la descripción del autor para obtener más información.")
 ## OpenCore
-**Versión**: 0.8.4
+**Versión**: 0.9.2
 ## ACPI
-- SSDT-PLUG.aml
 - SSDT-USBX.aml
-- SSDT-XHC.aml 
+
 ## Drivers
 - HfsPlus.efi
 - OpenCanopy.efi
@@ -48,18 +47,14 @@ En los nuevos parches de CPU de AMD, ahora tenemos que especificar los recuentos
 - ResetNvramEntry.efi
 - ToggleSipEntry.efi
 ## Kexts
-- AGPMInjector.kext
 - AMDRyzenCPUPowerManagement.kext
 - AppleALC.kext
+- AppleIGB.kext
 - AppleMCEReporterDisabler.kext
 - Lilu.kext
-- LucyRTL8125Ethernet.kext
 - NVMeFix.kext
-- RadeonSensor.kext
 - RestrictEvents.kext
-- SmallTreeIntel82576.kext
 - SMCAMDProcessor.kext
-- SMCRadeonSensor.kext
 - VirtualSMC.kext
 - WhateverGreen.kext
 ## Tools
@@ -77,8 +72,8 @@ En los nuevos parches de CPU de AMD, ahora tenemos que especificar los recuentos
 - Es posible que sea necesario parchear aplicaciones profesionales específicas para procesadores AMD, como aplicaciones de Adobe, Davinci Resolve, etc.
 - La virtualización (Apple Hypervisor y las aplicaciones que usan esto como AVD en Android Studio, Parallels) no funciona, pero VirtualBox sí.
 ### No funciona
-- Sidecar
+
 ## Referencias
 - [OpenCore Install Guide](https://dortania.github.io/OpenCore-Install-Guide/ "Dortania's OpenCore Install Guide")
-- [forum ReinierTutoriales](https://forum.softgameplus.com/ "forum ReinierTutoriales")
+- [Forum ReinierTutoriales](https://www.reiniertutoriales.com)
 😎
