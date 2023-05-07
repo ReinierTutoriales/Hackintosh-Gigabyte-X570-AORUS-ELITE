@@ -9,15 +9,15 @@ Mediante [👉PayPal💵](https://www.paypal.com/paypalme/ReinierTutoriales?coun
 Este repositorio contiene el directorio EFI para el combo Ryzen 5 3600 y MotherBoard Gigabyte X570 Aorus Elite.
 ## Especificaciones
 
-| Especificaciones     | Detalles                                  |
-| ------------------- | -------------------------------------------|
-| Motherboard         | Gigabyte X570 Aorus Elite                  |
-| Procesador          | AMD Ryzen 5 3600                           |
-| Memoria RAM         | 16GB/8GB DDR4 3200MHz                      |
-| Disco Duro          | NMVe XPG Atom 50 1TB PCIe Gen4             |
-| Gráficos            | Gigabyte RX 5500XT                         |
-| Audio               | Realtek® ALC1200 codec                     |
-| Red-Ethernet        | Intel® GbE LAN                             |
+| Componente   | Nombre del Producto                              | Notas                                          |
+|--------------|--------------------------------------------------|------------------------------------------------|
+| CPU          | AMD Ryzen 5 3600                                 | PBO enabled                                    |
+| Motherboard  | Gigabyte X570 Aorus Elite                        | F37c BIOS                                      |
+| Memoria RAM  | 16GB DDR4 3200MHz                                | Overclocked a 3200MHz                          |
+| Gráficos     | Gigabyte AMD Radeon RX 5500XT 8GB                |                                                |
+| Disco Duro   | NMVe XPG Atom 50 1TB PCIe Gen4                   |                                                |
+| Red Ethernet | Intel® GbE LAN                                   |                                                |
+| BT/WIFI      | Fenvi T919 (BCM94360CD)                          |                                                |
 
 
 - **MotherBoard**: Gigabyte X570 Aorus Elite [👉Compr Aquí💵](https://amzn.to/30KCO2k "Gigabyte X570 Aorus Elite")
