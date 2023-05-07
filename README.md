@@ -36,7 +36,7 @@ Este repositorio contiene el directorio EFI para el combo Ryzen 5 3600 y MotherB
 ## Dónde Comprar
 - **MotherBoard**: Gigabyte X570 Aorus Elite [👉Compr Aquí💵](https://amzn.to/30KCO2k "Gigabyte X570 Aorus Elite")
 - **Procesador**: Ryzen 5 3600 [👉Compr Aquí💵](https://amzn.to/3Ag2N0q "Ryzen 5 3600")
-- **RAM**: 32GB Corsair Vengeance RGB Pro (2 x 16 GB)DDR4 3600(PC4-28800)memoria optimizada AMD [👉Compr Aquí💵](https://amzn.to/3JPyWiu "32GB Corsair Vengeance RGB Pro (2 x 16 GB)DDR4 3600(PC4-28800)memoria optimizada AMD")
+- **RAM**: 32GB Corsair Vengeance RGB Pro (2 x 16 GB)DDR4 3600MHz [👉Compr Aquí💵](https://amzn.to/3JPyWiu "32GB Corsair Vengeance RGB Pro (2 x 16 GB)DDR4 3600(PC4-28800)memoria optimizada AMD")
 - **BT / WIFI**: Fenvi T919 BCM94360CD [👉Compr Aquí💵](https://amzn.to/3w3fkBX "Fenvi T919 (BCM94360CD)")
 ### Recomendación
 - Te recomiendo que uses esto solo como un recurso de referencia.
