@@ -32,9 +32,9 @@ Este repositorio contiene el directorio EFI para el combo Ryzen 5 3600 y MotherB
 En el archivo config.plist , genere códigos de serie nuevos ya que este carece de ellos, pues son personales y cada Mac necesita los de ella propios. Para generar la clave de serie, consulte la Guía OpenCore de Dortania . Cuando genere uno, debe seleccionar MacPro7,1 para un correcto funcionamiento.
 
 ### Otro apartado a verificar es
-En los nuevos parches de CPU de AMD, ahora tenemos que especificar los recuentos de núcleos de CPU en los algrey - Force cpuid_cores_per_packagenodos. Actualmente, mi configuración de EFI establece para el modelo de CPU de 6 núcleos porque estoy usando Ryzen 5 3600.
+- En los nuevos parches de CPU de AMD, ahora tenemos que especificar los recuentos de núcleos de CPU en los algrey - Force cpuid_cores_per_packagenodos. Actualmente, mi configuración de EFI establece para el modelo de CPU de 6 núcleos porque estoy usando Ryzen 5 3600.
 
-El parche Core Count debe modificarse para iniciar su sistema. Encuentre los cuatro parches `algrey - Force cpuid_cores_per_package`  y modifique el valor  `Replace`.
+- El parche Core Count debe modificarse para iniciar su sistema. Encuentre los cuatro parches `algrey - Force cpuid_cores_per_package`  y modifique el valor  `Replace`.
 |   macOS Version      | Replace Value | New Value |
 |----------------------|---------------|-----------|
 | 10.13.x, 10.14.x     | B8000000 0000 | B8 < Core Count > 0000 0000 |
@@ -43,7 +43,7 @@ El parche Core Count debe modificarse para iniciar su sistema. Encuentre los cua
 | 13.3                 |  BA000000 00  | BA < Core Count > 0000 00 |
 
 
-De la tabla anterior, sustitúyalo `< Core Count >` por el valor hexadecimal que coincida con su recuento de núcleos físicos. No utilice el número de thread o hilos de su CPU. Consulte la siguiente tabla para ver los valores que coinciden con el número de núcleos de su CPU.
+- De la tabla anterior, sustitúyalo `< Core Count >` por el valor hexadecimal que coincida con su recuento de núcleos físicos. No utilice el número de thread o hilos de su CPU. Consulte la siguiente tabla para ver los valores que coinciden con el número de núcleos de su CPU.
 
 | Core Count | Hexadecimal |
 |------------|-------------|
