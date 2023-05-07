@@ -12,7 +12,7 @@ Este repositorio contiene el directorio EFI para el combo Ryzen 5 3600 y MotherB
 | Componente   | Nombre del Producto                              | Notas                                          |
 |--------------|--------------------------------------------------|------------------------------------------------|
 | CPU          | AMD Ryzen 5 3600                                 | PBO enabled                                    |
-| Motherboard  | Gigabyte X570 Aorus Elite                        | F37c BIOS                                      |
+| Motherboard  | Gigabyte X570 Aorus Elite                        | [F38b BIOS]([https://www.paypal.com/paypalme/ReinierTutoriales?country.x=US&locale.x=es_XC](https://download.gigabyte.com/FileList/BIOS/mb_bios_x570-aorus-elite_f38b.zip?v=4bd52a3d6194c35738d49d1cbc5bee41))                                     |
 | Memoria RAM  | 16GB DDR4 3200MHz                                | Overclocked a 3200MHz                          |
 | Gráficos     | Gigabyte AMD Radeon RX 5500XT 8GB                |                                                |
 | Disco Duro   | NMVe XPG Atom 50 1TB PCIe Gen4                   |                                                |
