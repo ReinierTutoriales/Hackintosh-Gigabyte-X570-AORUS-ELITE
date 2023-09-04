@@ -7,6 +7,25 @@ Mediante [👉PayPal💵](https://www.paypal.com/paypalme/ReinierTutoriales?coun
 
 ## **Qué contiene este repositorio  👇**
 Este repositorio contiene el directorio EFI para el combo Ryzen 5 3600 y MotherBoard Gigabyte X570 Aorus Elite.
+
+
+* * *
+
+<div align=center>
+  
+   **SELECT LANGUAGUE**
+   
+</div>
+
+
+
+<details close>
+ <summary> 
+ <p align="center"> ESPAÑOL 🇪🇸 (HAZ CLICK)</p>
+ </summary>
+
+
+
 ## Especificaciones
 
 | Componente   | Nombre del Producto                              | Notas                                          |
