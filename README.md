@@ -14,6 +14,17 @@ Este repositorio contiene el directorio EFI para el combo Ryzen 9 5900x y Mother
 ![Ryzen Hackintosh](IMG/1.png)
 ![Ryzen Hackintosh - Acerca de esta Mac](IMG/0.png)
 
+
+# Rendimiento 
+## Geekbench 6
+
+![Geekbench 6](IMG/2.png)
+![Geekbench 6](IMG/3.png)
+![Geekbench 6](IMG/4.png)
+![Geekbench 6](IMG/5.png)
+
+
+
 ## Especificaciones
 
 | Componente   | Nombre del Producto                              | Notas                                          |
