@@ -45,8 +45,8 @@ Este repositorio contiene el directorio EFI para el combo Ryzen 9 5900x y Mother
 - Exit - Load Optimised Defaults
 - Ai Tweaker - Ai Overclock Tuner - D.O.C.P.
 - Advanced - APM Configuration - Power On By PCIe - Disabled
-- Advanced - PCI Subsystem Settings - Above 4G Decoding - Disabled
-- Advanced - PCI Subsystem Settings - Re-Size BAR Support - Disabled
+- Advanced - PCI Subsystem Settings - Above 4G Decoding - Enabled
+- Advanced - PCI Subsystem Settings - Re-Size BAR Support - Auto
 - Advanced - USB Configuration - Legacy USB Support - Auto or Disabled
 - Boot - Boot Configuration - Fast boot - Disabled
 - Boot - CSM - Launch CSM - Disabled
