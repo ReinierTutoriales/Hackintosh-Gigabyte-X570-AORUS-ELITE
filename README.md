@@ -11,7 +11,7 @@ Este repositorio contiene el directorio EFI para el combo Ryzen 9 5900x y Mother
 # Ryzentosh 2024
 
 
-![Ryzen Hackintosh](IMG/1.png)
+![macOS Sonoma](IMG/1.png)
 ![Ryzen Hackintosh - Acerca de esta Mac](IMG/0.png)
 
 
