@@ -6,7 +6,7 @@ Mediante [👉PayPal💵](https://www.paypal.com/paypalme/ReinierTutoriales?coun
 
 
 ## **Qué contiene este repositorio  👇**
-Este repositorio contiene el directorio EFI para el combo Ryzen 5 3600 y MotherBoard Gigabyte X570 Aorus Elite.
+Este repositorio contiene el directorio EFI para el combo Ryzen 9 5900x y MotherBoard Gigabyte X570 Aorus Elite.
 
 ![Ryzen Hackintosh](IMG/1.png)
 ![Ryzen Hackintosh - Acerca de esta Mac](IMG/0.png)
