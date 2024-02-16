@@ -21,7 +21,7 @@ Este repositorio contiene el directorio EFI para el combo Ryzen 9 5900x y Mother
 | CPU          | AMD Ryzen 9 5900X                                | PBO Activado                                   |
 | Motherboard  | Gigabyte X570 Aorus Elite                        | BIOS F38H                                      |
 | Memoria RAM  | 32GB DDR4 3200MHz                                | Overclocked a 3200MHz                          |
-| Gráficos     | Gigabyte AMD Radeon RX 5500XT 8GB                |                                                |
+| Gráficos     | AMD Radeon RX 6900XT 16GB                        |                                                |
 | Disco Duro   | NMVe XPG Atom 50 1TB PCIe Gen4                   |                                                |
 | Red Ethernet | Intel® GbE LAN                                   |                                                |
 | BT/WIFI      | Fenvi T919 (BCM94360CD)                          |                                                |
