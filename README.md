@@ -134,8 +134,12 @@ En el archivo config.plist , genere códigos de serie nuevos ya que este carece 
 - AppleMCEReporterDisabler.kext
 - Lilu.kext
 - NVMeFix.kext
+- RadeonSensor.kext
 - RestrictEvents.kext
 - SMCAMDProcessor.kext
+- SMCRadeonGPU.kext
+- USBToolBox.kext
+- UTBMap.kext
 - VirtualSMC.kext
 - WhateverGreen.kext
 ## Tools
