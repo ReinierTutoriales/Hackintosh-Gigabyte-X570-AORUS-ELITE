@@ -79,7 +79,7 @@ Este repositorio contiene el directorio EFI para el combo Ryzen 9 5900x y Mother
 
 ## Dónde Comprar
 - **MotherBoard**: Gigabyte X570 Aorus Elite [👉Compr Aquí💵](https://amzn.to/30KCO2k "Gigabyte X570 Aorus Elite")
-- **Procesador**: Ryzen 5 3600 [👉Compr Aquí💵](https://amzn.to/3Ag2N0q "Ryzen 5 3600")
+- **Procesador**: Ryzen 9 5900X [👉Compr Aquí💵](https://amzn.to/49SNh9y "Ryzen 9 5900X")
 - **RAM**: 32GB Corsair Vengeance RGB Pro (2 x 16 GB)DDR4 3600MHz [👉Compr Aquí💵](https://amzn.to/3JPyWiu "32GB Corsair Vengeance RGB Pro (2 x 16 GB)DDR4 3600(PC4-28800)memoria optimizada AMD")
 - **BT / WIFI**: Fenvi T919 BCM94360CD [👉Compr Aquí💵](https://amzn.to/3w3fkBX "Fenvi T919 (BCM94360CD)")
 ### Recomendación
