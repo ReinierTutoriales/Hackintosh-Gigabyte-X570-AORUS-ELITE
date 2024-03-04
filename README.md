@@ -47,7 +47,7 @@ Este repositorio contiene el directorio EFI para el combo Ryzen 9 5900x y Mother
 
 
 ## Fenvi T919
-![Fenvi T919](IMG/5.png)
+![Fenvi T919](IMG/fenvi-t919.png)
 
 
 
