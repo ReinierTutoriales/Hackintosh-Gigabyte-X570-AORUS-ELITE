@@ -19,10 +19,24 @@ Este repositorio contiene el directorio EFI para el combo Ryzen 9 5900x y Mother
 
 # Ryzentosh 2024 
 
-## macOS Ventura
+## macOS 13 Ventura
 
 
 ![macOS Ventura](IMG/1-Ventura.png)
+
+
+# Rendimiento 
+## Geekbench 6
+
+![Geekbench 6](IMG/2.png)
+![Geekbench 6](IMG/3.png)
+![Geekbench 6](IMG/4.png)
+
+
+## macOS 14 Sonoma
+
+
+![macOS Sonoma](IMG/1-Sonoma.png)
 
 
 # Rendimiento 
