@@ -17,11 +17,12 @@
 ## **Qué contiene este repositorio  👇**
 Este repositorio contiene el directorio EFI para el combo Ryzen 9 5900x y MotherBoard Gigabyte X570 Aorus Elite.
 
-# Ryzentosh 2024
+# Ryzentosh 2024 
+
+## macOS Ventura
 
 
-![macOS Sonoma](IMG/1.png)
-![Ryzen Hackintosh - Acerca de esta Mac](IMG/0.png)
+![macOS Ventura](IMG/1-Ventura.png)
 
 
 # Rendimiento 
