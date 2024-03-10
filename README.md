@@ -116,9 +116,13 @@ En el archivo config.plist , genere códigos de serie nuevos ya que este carece 
 
 [Consulte la descripción del autor para obtener más información.](https://github.com/AMD-OSX/AMD_Vanilla#instructions "Consulte la descripción del autor para obtener más información.")
 ## OpenCore
-**Versión**: 0.9.2
+**Versión**: 0.9.9
 ### Estructura EFI
 ## ACPI
+- SSDT-EC.aml
+- SSDT-HPET.aml
+- SSDT-PLUG.aml
+- SSDT-PMC.aml
 - SSDT-USBX.aml
 
 ## Drivers
