@@ -156,5 +156,5 @@ En el archivo config.plist , genere códigos de serie nuevos ya que este carece 
 
 ## Referencias
 - [OpenCore Install Guide](https://dortania.github.io/OpenCore-Install-Guide/ "Dortania's OpenCore Install Guide")
-- [Forum ReinierTutoriales](https://www.reiniertutoriales.com)
+- [Blog ReinierTutoriales](https://www.reiniertutoriales.com)
 😎
