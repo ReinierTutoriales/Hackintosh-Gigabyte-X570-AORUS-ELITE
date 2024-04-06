@@ -44,7 +44,17 @@ Este repositorio contiene el directorio EFI para el combo Ryzen 9 5900x y Mother
 ![Geekbench 6](IMG/3-Sonoma.png)
 ![Geekbench 6](IMG/2-Sonoma.png)
 
+## macOS 14.4.1 Sonoma
 
+
+![macOS Sonoma](IMG/5-Sonoma%2014.4.1.png)
+
+
+# Rendimiento 
+## Geekbench 6 macOS 14.4.1 Sonoma
+
+![Geekbench 6](IMG/6-Sonoma%2014.4.1.png)
+![Geekbench 6](IMG/7-Sonoma%2014.4.1.png)
 
 ## Fenvi T919
 ![Fenvi T919](IMG/fenvi-t919.png)
