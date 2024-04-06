@@ -134,6 +134,7 @@ En el archivo config.plist , genere códigos de serie nuevos ya que este carece 
 - SSDT-PLUG.aml
 - SSDT-PMC.aml
 - SSDT-USBX.aml
+- SSDT-SBUS-MCHC.aml
 
 ## Drivers
 - HfsPlus.efi
