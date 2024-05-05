@@ -1,4 +1,4 @@
-# Bienvenido al repositorio oficial de Ryzentosh Gigabyte X570 AORUS ELITE Compatible con macOS BigSur - Monterrey - Ventura - Sonoma
+# Repositorio de Ryzentosh Gigabyte X570 AORUS ELITE Compatible con macOS BigSur - Monterrey - Ventura - Sonoma
 [![X570 AORUS ELITE](https://static.gigabyte.com/StaticFile/Image/Global/907eecfe94da125eb443dc223715d8cd/Product/22419/webp/1000 "X570 AORUS ELITE")](https://static.gigabyte.com/StaticFile/Image/Global/907eecfe94da125eb443dc223715d8cd/Product/22419/webp/1000 "X570 AORUS ELITE")
 
 ## 🔗 LINKS ReinierTutoriales:
